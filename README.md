@@ -1,3 +1,3 @@
 # effusion
 
-Source code is currently available at (http://babbittlab.ucsf.edu/effusion)
+Source code is currently available at [Babbitt Lab Website](http://babbittlab.ucsf.edu/effusion)
